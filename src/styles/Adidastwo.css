@@ -1,0 +1,12 @@
+.a-dos{
+    margin: 0 5px;
+    display: flex;
+    justify-content: center;
+    width: 45%; height: 50%; 
+    border: 5px solid yellowgreen;
+    border-radius: 15px;
+}
+
+.a-dos img{
+    width: 75%; height: 45%;
+}
